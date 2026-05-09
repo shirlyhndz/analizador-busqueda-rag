@@ -24,5 +24,5 @@ python retriever.py
 
 ## Ejemplo de respuesta
 
-![evidencia](images/respuesta_rag.png)
+![evidencia](evidencia/respuesta_rag.png)
 
