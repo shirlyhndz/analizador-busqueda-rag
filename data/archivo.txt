@@ -1,0 +1,8 @@
+El algoritmo BFS encuentra la solución más superficial y es óptimo cuando el costo es uniforme.
+
+El algoritmo DFS utiliza una pila y explora primero los nodos más profundos.
+
+A* utiliza una heurística h(n) y una función:
+f(n)=g(n)+h(n)
+
+La búsqueda de costo uniforme expande el nodo con menor costo acumulado.
