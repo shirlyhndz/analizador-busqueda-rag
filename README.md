@@ -3,6 +3,7 @@
 MVP académico basado en arquitectura RAG local.
 
 ## Tecnologías
+
 - Python
 - LangChain
 - ChromaDB
@@ -11,6 +12,7 @@ MVP académico basado en arquitectura RAG local.
 - sentence-transformers
 
 ## Funcionalidades
+
 - Indexación de documentos
 - Recuperación semántica
 - Recomendación de algoritmos de búsqueda
@@ -21,6 +23,7 @@ MVP académico basado en arquitectura RAG local.
 ```bash
 python indexer.py
 python retriever.py
+```
 
 ## Ejemplo de respuesta
 
